@@ -1,5 +1,5 @@
 # Chess-App-Assembly-x86
-This is an assembly x86 project that offers a GUI same computer chess experience.
+This is an assembly x86 project that offers a graphical same computer chess experience.
 
 # Usage
     
