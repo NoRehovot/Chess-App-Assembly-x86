@@ -19,6 +19,6 @@ This is an assembly x86 project that offers a graphical same computer chess expe
 
 ##### Unfixed
     No support for en passant.
-    Move indication bugs when pinning knight to king.
+    Move indication bugs when pinning black pieces to king.
 
 ### ENJOY!
